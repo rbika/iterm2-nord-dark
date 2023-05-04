@@ -13,7 +13,7 @@ A darker version of [Nord](https://www.nordtheme.com/) theme for iTerm2.
 
 | Text     | Foreground | Background |
 | -------- | :--------: | :--------: |
-| Default  | `#d0d5e5`  | `#1e232b`  |
+| Default  | `#d0d5e5`  | `#181a21`  |
 | Selected | `#d8dde8`  | `#4c5569`  |
 
 | Color   |  Normal   |  Bright   |
